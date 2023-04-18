@@ -1,0 +1,38 @@
+[
+ {
+  "title": "Mania de futsal",
+  "description": "Rodilleras negras",
+  "price": 20000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc123",
+  "stock": 20,
+  "id": 1
+ },
+ {
+  "title": "Asics",
+  "description": "Rodilleras blancas",
+  "price": 3000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc124",
+  "stock": 15,
+  "id": 2
+ },
+ {
+  "title": "Reusch",
+  "description": "Rodilleras soft negras",
+  "price": 10000,
+  "img": "Imagen3",
+  "code": "https://picsum.photos/200/300",
+  "stock": 30,
+  "id": 3
+ },
+ {
+  "title": "Proyec",
+  "description": "Coderas negras",
+  "price": 10000,
+  "img": "https://picsum.photos/200/300",
+  "code": "abc126",
+  "stock": 15,
+  "id": 4
+ }
+]
